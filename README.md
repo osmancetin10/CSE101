@@ -1,4 +1,4 @@
-# CSE101 HW06
+# CSE101 - HW06
 Homework 6 of CSE101 class at Gebze Technical University
 
 This program aims to design menu and use some different things.
